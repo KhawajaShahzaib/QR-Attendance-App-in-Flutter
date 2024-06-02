@@ -7,6 +7,7 @@ QR-Attendance-App is a Flutter application that uses QR codes to manage student 
 - **QR Code Scanning:** Allows teachers to scan QR codes for marking attendance.
 - **Location Restriction:** Reduces proxies by ensuring attendance can only be marked within a specified location.
 - **Timer Functionality:** Adds a time constraint for marking attendance for students.
+- **Authentication:** Used firebase for authentication and FireStore for storing the data.
 
 ## Learnings
 Through this project, I gained experience with:
@@ -23,10 +24,17 @@ Through this project, I gained experience with:
 2. **Generate QR Code:** Generate a unique QR code for each class session.
 3. **Scan QR Code:** Students scan the QR code to mark their attendance.
 4. **View Attendance:** Teachers can view and manage attendance records through the app.
-#Outputs
+
+## Screenshots
+
+### Splash Screen
 ![Splash Screen](Output/splashScreen.jpg)
+
+### Home Screen
 ![Main Menu](Output/Menu.jpg)
-![QR-Generator](Output/QrGenerator.jpg)
+
+### QR Generator Screen
+![QR Generator](Output/QrGenerator.jpg)
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
