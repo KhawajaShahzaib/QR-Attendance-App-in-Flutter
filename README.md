@@ -39,5 +39,3 @@ Through this project, I gained experience with:
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
 
-## Contact
-For any questions or feedback, please contact [Your Name] at [your email].
