@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818724916020",
+    "project_id": "fireaddedfirstcli-f0a09",
+    "storage_bucket": "fireaddedfirstcli-f0a09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818724916020:android:99cc4986e557580831b361",
+        "android_client_info": {
+          "package_name": "com.riphah.fireaddedfirst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4BWqkNE1sZjbOhlAS1-tzLgKkIzkSur4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
